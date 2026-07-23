@@ -105,3 +105,18 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 </div>
 
 ---
+
+### 📚 Badges
+
+<div align="center">
+    <a href="https://www.credly.com/badges/735a1d43-9797-4cfa-a8b3-53b71f23a2e9/public_url" title="Redirect AWS Cloud Practitioner Badge">
+    <img height="200rem" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" />
+    </a>
+    <a href="https://learn.microsoft.com/api/credentials/share/pt-br/guilhermebgprado/3706C24D765029DB?sharingId=ED96FDEB38829552" title="Redirect Azure Fundamentals">
+    <img height="200rem" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" />
+    </a>
+    <a href="https://www.credly.com/badges/efea8a8c-51a8-4602-90a7-4b5d7bcd2aa4" title="Redirect Linux Essentials Badge">
+    <img height="200rem" src="https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" alt="Linux Essentials" />
+    </a>
+</div>
+
