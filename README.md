@@ -39,31 +39,31 @@
 
 #### **Linguagens**
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
 </p>
 
 #### **Cloud & Cloud Native**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 #### **Bancos de Dados & Storage**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
 </p>
 
 #### **Ferramentas & Ambiente**
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/goland-%23000000?style=for-the-badge&logo=goland" alt="Goland">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/goland-%23000000?style=for-the-badge&logo=goland" alt="Goland">
 </p>
 
 ---
@@ -84,19 +84,22 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 
 ### 📊 Estatísticas do GitHub
 
+<!-- 
+
+-->
+
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guiprd&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=onedark"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guiprd&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=guiprd&theme=dracula" />
-  <a <img src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&mode=weekly&type=png&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&mode=weekly&type=png&hide_longest_streak=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img height="250rem"src="https://github-stats-extended.vercel.app/api/top-langs?username=guiprd&layout=donut-vertical&langs_count=4&hide_values=true&theme=onedark" alt="GitHub Languages" />
 </div>
 
 ---
-
-<div align="center">
-  <sub><i>Design adaptado com tema Dracula 🧛‍♂️</i></sub>
-</div>
