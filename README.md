@@ -84,9 +84,11 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 
 ### 📊 Estatísticas do GitHub
 
-<!-- 
-
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiprd/guiprd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiprd/guiprd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guiprd/guiprd/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guiprd&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub Stats" />
