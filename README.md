@@ -95,7 +95,11 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 <br />
 
 <div align="center">
-    <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&mode=weekly&type=png&hide_longest_streak=true" alt="GitHub Streak" />
+    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&mode=weekly&type=png&hide_longest_streak=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img height="250rem"src="https://github-stats-extended.vercel.app/api/top-langs?username=guiprd&layout=donut-vertical&langs_count=4&hide_values=true&theme=onedark" alt="GitHub Languages" />
 </div>
 
 ---
