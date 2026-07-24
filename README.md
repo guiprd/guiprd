@@ -98,7 +98,7 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 
 <div align="center">
     <!-- <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&mode=weekly&type=png&hide_longest_streak=true" alt="GitHub Streak" /> -->
-    <img height="200rem" src="https://github.com/guiprd/guiprd/tree/output/profile/streak.svg" alt="GitHub Streak" />
+    <img height="200rem" src="https://github.com/guiprd/guiprd/blob/streak-stats/profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <div align="center">
