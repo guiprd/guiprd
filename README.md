@@ -84,25 +84,39 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 
 ### 📊 Estatísticas do GitHub
 
+<!--
+  SNAKE
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiprd/guiprd/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiprd/guiprd/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guiprd/guiprd/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
+  GitHub Stats
+-->
 <div align="center">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guiprd&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub Stats" />
+    <!-- <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guiprd&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=onedark" alt="GitHub Stats" /> -->
+    <img height="180em" src="https://github.com/guiprd/guiprd/blob/profile/stats.svg" alt="GitHub Stats" />
 </div>
 
 <br />
 
+<!--
+  GitHub Streak
+-->
 <div align="center">
     <!-- <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&mode=weekly&type=png&hide_longest_streak=true" alt="GitHub Streak" /> -->
     <img height="200rem" src="https://github.com/guiprd/guiprd/blob/streak-stats/profile/streak.svg" alt="GitHub Streak" />
 </div>
 
+<!--
+  GitHub Languages
+-->
 <div align="center">
-    <img height="250rem"src="https://github-stats-extended.vercel.app/api/top-langs?username=guiprd&layout=donut-vertical&langs_count=4&hide_values=true&theme=onedark" alt="GitHub Languages" />
+    <!-- <img height="250rem"src="https://github-stats-extended.vercel.app/api/top-langs?username=guiprd&layout=donut-vertical&langs_count=4&hide_values=true&theme=onedark" alt="GitHub Languages" /> -->
+    <img height="250rem"src="https://github.com/guiprd/guiprd/blob/profile/top-langs.svg" alt="GitHub Languages" />
 </div>
 
 ---
@@ -110,12 +124,23 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
 ### 📚 Badges
 
 <div align="center">
+<!--
+  AWS
+-->
     <a href="https://www.credly.com/badges/735a1d43-9797-4cfa-a8b3-53b71f23a2e9/public_url" title="Redirect AWS Cloud Practitioner Badge">
     <img height="200rem" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" />
     </a>
+
+<!--
+  AZURE
+-->
     <a href="https://learn.microsoft.com/api/credentials/share/pt-br/guilhermebgprado/3706C24D765029DB?sharingId=ED96FDEB38829552" title="Redirect Azure Fundamentals">
     <img height="200rem" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" />
     </a>
+
+<!--
+  LINUX
+-->
     <a href="https://www.credly.com/badges/efea8a8c-51a8-4602-90a7-4b5d7bcd2aa4" title="Redirect Linux Essentials Badge">
     <img height="200rem" src="https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" alt="Linux Essentials" />
     </a>
