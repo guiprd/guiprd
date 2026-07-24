@@ -104,7 +104,7 @@ Descrição breve do que o projeto resolve e qual o valor entregue.
   GitHub Streak
 -->
 <div align="center">
-    <img height="189rem" src="https://github-readme-streak-stats.herokuapp.com?user=guiprd&theme=onedark&border_radius=5&hide_longest_streak=true" alt="GitHub Streak" />
+    <img height="189rem" src="https://github-readme-streak-stats.herokuapp.com/?user=guiprd&theme=onedark&border_radius=5&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
 <!--
