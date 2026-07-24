@@ -31,4 +31,4 @@ jobs:
           git checkout -B streak-stats
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
-          git push          
+          git push origin streak-stats --force
