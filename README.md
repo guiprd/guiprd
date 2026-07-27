@@ -19,6 +19,9 @@
     <a href="https://www.codewars.com/users/guiprd">
       <img src="https://img.shields.io/badge/codewars-%23B1361E?style=for-the-badge&logo=codewars" alt="Codewars" />
     </a>
+    <a href="https://www.boot.dev/u/guiprd">
+      <img height="35rem" src="https://www.boot.dev/img/bootdev-logo-full-150.png" alt="boot.dev" />
+    </a>
   </p>
 
 </div>
